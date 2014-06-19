@@ -8108,36 +8108,37 @@ a {
 }
 /* line 39, ../scss/_tags.scss */
 a:hover {
+  color: #84a282;
   text-decoration: underline;
 }
 
-/* line 45, ../scss/_tags.scss */
+/* line 46, ../scss/_tags.scss */
 ul {
   padding-left: 10px;
 }
-/* line 48, ../scss/_tags.scss */
+/* line 49, ../scss/_tags.scss */
 ul li {
   font-weight: 300;
 }
 
-/* line 54, ../scss/_tags.scss */
+/* line 55, ../scss/_tags.scss */
 img {
   border: 1px solid #eeeeee;
   padding: 1px;
 }
 
-/* line 62, ../scss/_tags.scss */
+/* line 63, ../scss/_tags.scss */
 footer h3 {
   font-family: Helvetica, Sans-Serif;
   color: #fafafa;
   padding-bottom: 10px;
   border-bottom: 1px solid #3e3e3e;
 }
-/* line 69, ../scss/_tags.scss */
+/* line 70, ../scss/_tags.scss */
 footer p, footer label, footer input {
   color: #fafafa;
 }
-/* line 73, ../scss/_tags.scss */
+/* line 74, ../scss/_tags.scss */
 footer img {
   width: 32px;
   height: 32px;

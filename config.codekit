@@ -3582,6 +3582,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19518,
+		"inputAbbreviatedPath": "\/images\/favicon.png",
+		"outputAbbreviatedPath": "\/images\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/images\/forest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3779,7 +3790,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "Hypnotherapy",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_brown"
+	"iconImageName": "brackets_blue"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,

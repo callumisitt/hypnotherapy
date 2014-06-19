@@ -38,6 +38,7 @@ a
 	text-decoration: none;
 	&:hover
 	{
+		color: $primary-color;
 		text-decoration: underline;
 	}
 }
