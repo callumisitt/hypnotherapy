@@ -1,0 +1,82 @@
+#inner-layout
+{
+	max-width: $row-width;
+	margin: 0 auto;
+	background: #fff;
+	border-top: 5px solid $primary-color;
+}
+
+.row
+{
+	padding: 10px 20px 20px;
+}
+
+header.masthead
+{
+	padding: 0 20px;
+	margin-bottom: 20px;
+	border-bottom: 3px solid $primary-color;
+	text-transform: uppercase;
+
+	.logo, nav.primary
+	{
+		display: inline-block;
+		vertical-align: bottom;
+		margin: 30px 0;
+	}
+
+	.logo
+	{
+		width: 300px;
+		height: 70px;
+		img
+		{
+			border: 0;
+		}
+	}
+
+  nav.primary
+  {
+    a
+    {
+      color: $text-color;
+      &:hover, &.current
+      {
+        color: $primary-color;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+main
+{
+	.inner
+	{
+		padding: 20px 10px;
+		border-top: 1px solid $light-grey;
+	}
+}
+
+footer
+{
+	.contact .row
+	{
+		padding: 0;
+		input, textarea
+		{
+			background: $off-dark-grey;
+			border: 0;
+		}
+		input[type="submit"]
+		{
+			padding: 10px;
+			text-transform: uppercase;
+			background-color: $primary-color;
+			&:hover
+			{
+				background-color: $secondary-color;
+			}
+		}
+	}
+}

@@ -1,0 +1,61 @@
+.banners
+{
+	position: relative;
+
+	.caption
+	{
+		display: inline-block;
+		position: absolute;
+		bottom: 5%;
+		right: 5%;
+		width: 45%;
+		padding: 20px;
+
+		.heading
+		{
+			margin-bottom: 10px;
+			background: $secondary-color;
+			h2
+			{
+				@include type-set(1.8em, 1.6em, italic);
+				margin: 0;
+				padding: 10px 20px;
+				color: #fff;
+			}
+		}
+		.copy
+		{
+			padding: 5px 20px;
+			background: #fff;
+			p
+			{
+				margin: 1em 0;
+			}			
+		}
+	}
+}
+
+.testimonial
+{
+	padding-left: 40px;
+	background-image: url('/images/icons/quote-left.png');
+	background-position: top left;
+	background-repeat: no-repeat;
+	background-size: 32px 32px;
+	clear: both;
+
+	p
+	{
+		@include serif;
+		@include type-set(1.2em, 1.4em, italic);
+	}
+	h3
+	{
+		@include sans-serif;
+		@include type-set(1.1em, 1.3em);
+		strong
+		{
+			color: $primary-color;
+		}
+	}
+}

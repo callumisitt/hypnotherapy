@@ -1,0 +1,37 @@
+@import "settings";
+@import "foundation";
+
+
+$bg-body: #313131;
+
+$heading-color: #666;
+$text-color: #777;
+
+$primary-color: #84a282;
+$secondary-color: #a8c254;
+
+$light-grey: #ccc;
+$off-white: #eee;
+$off-dark-grey: #383838;
+
+@mixin type-set($font_size, $line_height, $font_style: normal, $font_weight: 300)
+{
+	font-size: $font_size;
+	line-height: $line_height;
+	font-style: $font_style;
+	font-weight: $font_weight;
+}
+
+@mixin sans-serif
+{
+	font-family: Helvetica, Sans-Serif;
+}
+
+@mixin serif
+{
+	font-family: Times New Roman, Serif;
+}
+
+@import "frame";
+@import "tags";
+@import "styles";
