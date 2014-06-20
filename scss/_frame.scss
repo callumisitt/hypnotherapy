@@ -29,6 +29,7 @@ header.masthead
 	{
 		width: 300px;
 		height: 70px;
+		padding: 0;
 		img
 		{
 			border: 0;
@@ -58,8 +59,9 @@ main
 	}
 }
 
-footer
+footer.row
 {
+	padding-top: 20px;
 	.contact .row
 	{
 		padding: 0;

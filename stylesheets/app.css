@@ -8012,44 +8012,49 @@ header.masthead .logo, header.masthead nav.primary {
 header.masthead .logo {
   width: 300px;
   height: 70px;
+  padding: 0;
 }
-/* line 32, ../scss/_frame.scss */
+/* line 33, ../scss/_frame.scss */
 header.masthead .logo img {
   border: 0;
 }
-/* line 40, ../scss/_frame.scss */
+/* line 41, ../scss/_frame.scss */
 header.masthead nav.primary a {
   color: #777777;
 }
-/* line 43, ../scss/_frame.scss */
+/* line 44, ../scss/_frame.scss */
 header.masthead nav.primary a:hover, header.masthead nav.primary a.current {
   color: #84a282;
   text-decoration: none;
 }
 
-/* line 54, ../scss/_frame.scss */
+/* line 55, ../scss/_frame.scss */
 main .inner {
   padding: 20px 10px;
   border-top: 1px solid #cccccc;
 }
 
-/* line 63, ../scss/_frame.scss */
-footer .contact .row {
+/* line 62, ../scss/_frame.scss */
+footer.row {
+  padding-top: 20px;
+}
+/* line 65, ../scss/_frame.scss */
+footer.row .contact .row {
   padding: 0;
 }
-/* line 66, ../scss/_frame.scss */
-footer .contact .row input, footer .contact .row textarea {
+/* line 68, ../scss/_frame.scss */
+footer.row .contact .row input, footer.row .contact .row textarea {
   background: #383838;
   border: 0;
 }
-/* line 71, ../scss/_frame.scss */
-footer .contact .row input[type="submit"] {
+/* line 73, ../scss/_frame.scss */
+footer.row .contact .row input[type="submit"] {
   padding: 10px;
   text-transform: uppercase;
   background-color: #84a282;
 }
-/* line 76, ../scss/_frame.scss */
-footer .contact .row input[type="submit"]:hover {
+/* line 78, ../scss/_frame.scss */
+footer.row .contact .row input[type="submit"]:hover {
   background-color: #a8c254;
 }
 
@@ -8091,9 +8096,10 @@ h3 {
   font-style: normal;
   font-weight: 400;
   font-family: Helvetica, Sans-Serif;
+  color: #84a282;
 }
 
-/* line 30, ../scss/_tags.scss */
+/* line 31, ../scss/_tags.scss */
 p {
   font-size: 1em;
   line-height: 1.4em;
@@ -8101,44 +8107,44 @@ p {
   font-weight: 300;
 }
 
-/* line 35, ../scss/_tags.scss */
+/* line 36, ../scss/_tags.scss */
 a {
   color: #84a282;
   text-decoration: none;
 }
-/* line 39, ../scss/_tags.scss */
+/* line 40, ../scss/_tags.scss */
 a:hover {
   color: #84a282;
   text-decoration: underline;
 }
 
-/* line 46, ../scss/_tags.scss */
+/* line 47, ../scss/_tags.scss */
 ul {
   padding-left: 10px;
 }
-/* line 49, ../scss/_tags.scss */
+/* line 50, ../scss/_tags.scss */
 ul li {
   font-weight: 300;
 }
 
-/* line 55, ../scss/_tags.scss */
+/* line 56, ../scss/_tags.scss */
 img {
   border: 1px solid #eeeeee;
   padding: 1px;
 }
 
-/* line 63, ../scss/_tags.scss */
+/* line 64, ../scss/_tags.scss */
 footer h3 {
   font-family: Helvetica, Sans-Serif;
   color: #fafafa;
   padding-bottom: 10px;
   border-bottom: 1px solid #3e3e3e;
 }
-/* line 70, ../scss/_tags.scss */
+/* line 71, ../scss/_tags.scss */
 footer p, footer label, footer input {
   color: #fafafa;
 }
-/* line 74, ../scss/_tags.scss */
+/* line 75, ../scss/_tags.scss */
 footer img {
   width: 32px;
   height: 32px;
@@ -8208,8 +8214,50 @@ footer img {
   line-height: 1.3em;
   font-style: normal;
   font-weight: 300;
+  color: #777777;
 }
-/* line 56, ../scss/_styles.scss */
+/* line 57, ../scss/_styles.scss */
 .testimonial h3 strong {
   color: #84a282;
+}
+
+@media screen and (max-width: 645px) {
+  /* line 5, ../scss/_responsive.scss */
+  header.masthead .logo {
+    width: 100%;
+    margin: 20px auto;
+  }
+  /* line 9, ../scss/_responsive.scss */
+  header.masthead .logo img {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+  }
+  /* line 17, ../scss/_responsive.scss */
+  header.masthead nav.primary, header.masthead ul, header.masthead ul li {
+    float: none !important;
+    text-align: center;
+  }
+  /* line 22, ../scss/_responsive.scss */
+  header.masthead nav.primary {
+    margin: 0;
+  }
+  /* line 25, ../scss/_responsive.scss */
+  header.masthead nav.primary ul li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  /* line 35, ../scss/_responsive.scss */
+  .banners .caption {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    padding: 20px 0;
+  }
+  /* line 42, ../scss/_responsive.scss */
+  .banners .caption .copy {
+    background: #f7f7f7;
+  }
 }

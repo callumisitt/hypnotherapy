@@ -25,6 +25,7 @@ h3
 {
 	@include type-set(1.2em, 1em, normal, 400);
 	@include sans-serif;
+	color: $primary-color;
 }
 
 p
