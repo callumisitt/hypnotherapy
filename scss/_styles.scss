@@ -1,7 +1,11 @@
-.banners
+.banners .inner
 {
 	position: relative;
-
+	border-bottom: 1px solid $light-grey;
+	img
+	{
+		margin-bottom: 20px;
+	}
 	.caption
 	{
 		display: inline-block;
