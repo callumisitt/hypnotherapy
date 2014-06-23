@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
@@ -11,32 +17,41 @@
     <meta name="msapplication-TileImage" content="/images/favicon.png">
 
     <link rel="stylesheet" href="stylesheets/app.css">
+
+	<script src="/bower_components/html5shiv/dist/html5shiv.js"></script>
+    <script src="/bower_components/picturefill/dist/picturefill.min.js"></script>
   </head>
   <body>
     <div id="inner-layout">
     
       <header class="masthead row">
         <div class="small-12 medium-1 columns logo">
-          <img src="/images/logo.png" alt="Hypnotherapy">
+          <a href="/"><img src="/images/logo.png" alt="Hypnotherapy"></a>
         </div>
         <nav class="primary medium-6 columns">
         <p class="hide-for-small">&nbsp;</p> <!-- yeah, I know... -->
         <ul class="inline-list right">
           <li><a href="/" class="current">Home</a></li>
-          <li><a href="/about.html">About</a></li>
-          <li><a href="">Services</a></li>
-          <li><a href="">FAQs</a></li>
-          <li><a href="">Testimonials</a></li>
+          <li><a href="/about.html" ''>About</a></li>
+          <li><a href="/services.html" ''>Services</a></li>
+          <li><a href="/faq.html" ''>FAQs</a></li>
+          <li><a href="" ''>Testimonials</a></li>
           </ul>
         </nav>
       </header>
 
   <section class="banners row">
     <div class="inner small-12 columns">
-      <img src="/images/banners/summer-field.jpg" alt="Become the person you want to be">
+	    <picture>
+				<!--[if IE 9]><video style="display: none;"><![endif]-->
+				<source srcset="/images/summer-field-retina.jpg 2x" media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)">
+				<source srcset="/images/summer-field.jpg">
+				<!--[if IE 9]></video><![endif]-->
+				<img srcset="/images/summer-field.jpg" alt="Become the person you want to be">
+			</picture>
       <div class="caption">
         <div class="heading"><h2>Become the person you want to be</h2></div>
-        <div class="copy"><p>Hypnotherapy can help with many issues which can be holding you back from being who you want to be</p></div>
+        <div class="copy"><p>Book a session today and take the first step in being exactly who you want to be</p></div>
       </div>
     </div>
   </section>
@@ -61,7 +76,7 @@
         <p><img src="/images/park.jpg" alt="I am totally committed to working within a complete non-judgemental person centred approach"></p>
         <h3>Jayney Wright</h3>
         <p>I am totally committed to working within a complete non-judgemental person centred approach and helping people discover their full potential.</p>
-        <p><em>Everybody will be treated with the utmost respect and dignity.</em></p>
+        <p><em>Everyone will be treated with the utmost respect and dignity.</em></p>
       </div>
      
       <div class="medium-4 columns">
@@ -99,21 +114,21 @@
         <form>
           <div class="row">
             <div class="medium-6 columns">
-                <input type="text" name="name" placeholder="Name" />
+                <input type="text" name="name" placeholder="Name">
             </div>
             <div class="medium-6 columns">
-                <input type="text" name="contact" placeholder="Contact Details" />
+                <input type="text" name="contact" placeholder="Contact Details">
             </div>
           </div>
 
           <div class="row">
-            <div class="medium-12 columns">
+            <div class="small-12 columns">
                 <textarea name="message" rows="6" placeholder="What do you want to say?"></textarea>
             </div>
           </div>
 
           <div class="row">
-            <div class="medium-12 columns">
+            <div class="small-12 columns">
                 <input type="submit" value="Send message">
             </div>
           </div>

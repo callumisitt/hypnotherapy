@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Lora:400);
 /* line 329, ../bower_components/foundation/scss/foundation/components/_global.scss */
 meta.foundation-version {
   font-family: "/5.2.3/";
@@ -8100,27 +8101,22 @@ main .inner {
 }
 
 /* line 61, ../scss/_frame.scss */
+aside.sidebar {
+  padding-top: 10px;
+  background: #eeeeee;
+}
+/* line 65, ../scss/_frame.scss */
+aside.sidebar .row {
+  padding-left: 0;
+}
+
+/* line 71, ../scss/_frame.scss */
 footer.row {
   padding-top: 20px;
 }
-/* line 64, ../scss/_frame.scss */
+/* line 74, ../scss/_frame.scss */
 footer.row .contact .row {
   padding: 0;
-}
-/* line 67, ../scss/_frame.scss */
-footer.row .contact .row input, footer.row .contact .row textarea {
-  background: #383838;
-  border: 0;
-}
-/* line 72, ../scss/_frame.scss */
-footer.row .contact .row input[type="submit"] {
-  padding: 10px;
-  text-transform: uppercase;
-  background-color: #84a282;
-}
-/* line 77, ../scss/_frame.scss */
-footer.row .contact .row input[type="submit"]:hover {
-  background-color: #a8c254;
 }
 
 /* line 1, ../scss/_tags.scss */
@@ -8133,14 +8129,14 @@ body {
 
 /* line 9, ../scss/_tags.scss */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Times New Roman, Serif;
+  font-family: 'Lora', serif;
   color: #666666;
   padding-bottom: 10px;
 }
 
 /* line 15, ../scss/_tags.scss */
 h1 {
-  font-size: 2.75em;
+  font-size: 2.2em;
   line-height: 1.15em;
   font-style: normal;
   font-weight: 400;
@@ -8148,7 +8144,7 @@ h1 {
 
 /* line 20, ../scss/_tags.scss */
 h2 {
-  font-size: 1.8125em;
+  font-size: 1.6em;
   line-height: 1.25em;
   font-style: normal;
   font-weight: 400;
@@ -8198,23 +8194,50 @@ img {
   padding: 1px;
 }
 
-/* line 64, ../scss/_tags.scss */
+/* line 62, ../scss/_tags.scss */
+table {
+  border: 1px solid #f0f0f0;
+}
+
+/* line 69, ../scss/_tags.scss */
 footer h3 {
   font-family: Helvetica, Sans-Serif;
   color: #fafafa;
   padding-bottom: 10px;
   border-bottom: 1px solid #3e3e3e;
 }
-/* line 71, ../scss/_tags.scss */
+/* line 76, ../scss/_tags.scss */
 footer p, footer label, footer input {
   color: #fafafa;
 }
-/* line 75, ../scss/_tags.scss */
+/* line 80, ../scss/_tags.scss */
 footer img {
   width: 32px;
   height: 32px;
   border: 0;
   margin-right: 10px;
+}
+
+/* line 89, ../scss/_tags.scss */
+.row input, textarea, select {
+  background: #383838;
+  color: #fff;
+  border: 0;
+}
+/* line 94, ../scss/_tags.scss */
+.row input:hover, textarea:hover, select:hover {
+  background: #383838;
+}
+
+/* line 99, ../scss/_tags.scss */
+input[type="submit"] {
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: #84a282;
+}
+/* line 104, ../scss/_tags.scss */
+input[type="submit"]:hover {
+  background-color: #a8c254;
 }
 
 /* line 1, ../scss/_styles.scss */
@@ -8242,6 +8265,7 @@ footer img {
 }
 /* line 22, ../scss/_styles.scss */
 .banners .inner .caption .heading h2 {
+  font-family: Times New Roman, serif;
   font-size: 1.8em;
   line-height: 1.6em;
   font-style: italic;
@@ -8250,17 +8274,17 @@ footer img {
   padding: 10px 20px;
   color: #fff;
 }
-/* line 30, ../scss/_styles.scss */
+/* line 31, ../scss/_styles.scss */
 .banners .inner .caption .copy {
   padding: 5px 20px;
   background: #fff;
 }
-/* line 34, ../scss/_styles.scss */
+/* line 35, ../scss/_styles.scss */
 .banners .inner .caption .copy p {
   margin: 1em 0;
 }
 
-/* line 42, ../scss/_styles.scss */
+/* line 43, ../scss/_styles.scss */
 .testimonial {
   padding-left: 40px;
   background-image: url("/images/icons/quote-left.png");
@@ -8269,15 +8293,15 @@ footer img {
   background-size: 32px 32px;
   clear: both;
 }
-/* line 51, ../scss/_styles.scss */
+/* line 52, ../scss/_styles.scss */
 .testimonial p {
-  font-family: Times New Roman, Serif;
+  font-family: Times New Roman, serif;
   font-size: 1.2em;
   line-height: 1.4em;
   font-style: italic;
   font-weight: 300;
 }
-/* line 56, ../scss/_styles.scss */
+/* line 57, ../scss/_styles.scss */
 .testimonial h3 {
   font-family: Helvetica, Sans-Serif;
   font-size: 1.1em;
@@ -8286,9 +8310,29 @@ footer img {
   font-weight: 300;
   color: #777777;
 }
-/* line 61, ../scss/_styles.scss */
+/* line 62, ../scss/_styles.scss */
 .testimonial h3 strong {
   color: #84a282;
+}
+
+/* line 69, ../scss/_styles.scss */
+.highlight {
+  padding: 10px;
+  background: #fafafa;
+}
+
+/* line 75, ../scss/_styles.scss */
+.highlight-primary {
+  padding: 10px;
+  background: #84a282;
+  color: #fff;
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* line 84, ../scss/_styles.scss */
+.seperate-left {
+  border-left: 1px dotted #f0f0f0;
 }
 
 @media screen and (max-width: 645px) {
@@ -8319,7 +8363,7 @@ footer img {
   }
 
   /* line 35, ../scss/_responsive.scss */
-  .banners .caption {
+  .banners .inner .caption {
     position: relative;
     bottom: 0;
     right: 0;
@@ -8327,7 +8371,7 @@ footer img {
     padding: 20px 0;
   }
   /* line 42, ../scss/_responsive.scss */
-  .banners .caption .copy {
+  .banners .inner .caption .copy {
     background: #f7f7f7;
   }
 }

@@ -21,6 +21,7 @@
 			background: $secondary-color;
 			h2
 			{
+				@include serif;
 				@include type-set(1.8em, 1.6em, italic);
 				margin: 0;
 				padding: 10px 20px;
@@ -63,4 +64,24 @@
 			color: $primary-color;
 		}
 	}
+}
+
+.highlight
+{
+	padding: 10px;
+	background: #fafafa;
+}
+
+.highlight-primary
+{
+	padding: 10px;
+	background: $primary-color;
+	color: #fff;
+	font-style: italic;
+	font-weight: 500;
+}
+
+.seperate-left
+{
+	border-left: 1px dotted #f0f0f0;
 }

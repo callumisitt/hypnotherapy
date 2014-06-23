@@ -58,26 +58,21 @@ main
 	}
 }
 
+aside.sidebar
+{
+	padding-top: 10px;
+	background: $off-white;
+	.row
+	{
+		padding-left: 0;
+	}
+}
+
 footer.row
 {
 	padding-top: 20px;
 	.contact .row
 	{
 		padding: 0;
-		input, textarea
-		{
-			background: $off-dark-grey;
-			border: 0;
-		}
-		input[type="submit"]
-		{
-			padding: 10px;
-			text-transform: uppercase;
-			background-color: $primary-color;
-			&:hover
-			{
-				background-color: $secondary-color;
-			}
-		}
 	}
 }

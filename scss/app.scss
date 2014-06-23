@@ -1,6 +1,8 @@
 @import "settings";
 @import "foundation";
 
+@import url(http://fonts.googleapis.com/css?family=Lora:400);
+
 $bg-body: #313131;
 
 $heading-color: #666;
@@ -28,7 +30,12 @@ $off-dark-grey: #383838;
 
 @mixin serif
 {
-	font-family: Times New Roman, Serif;
+	font-family: Times New Roman, serif;
+}
+
+@mixin serif-headings
+{
+	font-family: 'Lora', serif;
 }
 
 @import "frame";
