@@ -134,7 +134,7 @@
       </div>
       <div class="contact medium-6 columns">
         <h3>Send a Message</h3>
-        <form>
+        <form action="/contact.php" method="post">
           <div class="row">
             <div class="medium-6 columns">
                 <input type="text" name="name" placeholder="Name">
@@ -152,6 +152,7 @@
 
           <div class="row">
             <div class="small-12 columns">
+            	<input type="hidden" name="type" value="message">
                 <input type="submit" value="Send message">
             </div>
           </div>

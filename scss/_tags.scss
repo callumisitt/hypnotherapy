@@ -91,7 +91,7 @@ footer
 	background: $off-dark-grey;
 	color: #fff;
 	border: 0;
-	&:hover
+	&:hover, &:focus
 	{
 		background: $off-dark-grey;
 	}

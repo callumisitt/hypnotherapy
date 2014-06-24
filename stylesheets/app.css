@@ -8225,7 +8225,7 @@ footer img {
   border: 0;
 }
 /* line 94, ../scss/_tags.scss */
-.row input:hover, textarea:hover, select:hover {
+.row input:hover, .row input:focus, textarea:hover, textarea:focus, select:hover, select:focus {
   background: #383838;
 }
 
