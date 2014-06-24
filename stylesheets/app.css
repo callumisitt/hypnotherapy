@@ -8335,6 +8335,16 @@ input[type="submit"]:hover {
   border-left: 1px dotted #f0f0f0;
 }
 
+/* line 89, ../scss/_styles.scss */
+.success {
+  color: #84a282;
+}
+
+/* line 93, ../scss/_styles.scss */
+.fail {
+  color: #e04c4c;
+}
+
 @media screen and (max-width: 645px) {
   /* line 5, ../scss/_responsive.scss */
   header.masthead .logo {
