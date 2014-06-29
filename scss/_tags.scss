@@ -98,9 +98,11 @@ footer
 }
 input[type="submit"]
 {
+	margin: 0;
 	padding: 10px;
 	text-transform: uppercase;
 	background-color: $primary-color;
+	cursor: pointer;
 	&:hover
 	{
 		background-color: $secondary-color;

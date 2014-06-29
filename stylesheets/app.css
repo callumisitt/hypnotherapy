@@ -8231,11 +8231,13 @@ footer img {
 
 /* line 99, ../scss/_tags.scss */
 input[type="submit"] {
+  margin: 0;
   padding: 10px;
   text-transform: uppercase;
   background-color: #84a282;
+  cursor: pointer;
 }
-/* line 104, ../scss/_tags.scss */
+/* line 106, ../scss/_tags.scss */
 input[type="submit"]:hover {
   background-color: #a8c254;
 }
