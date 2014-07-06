@@ -2,15 +2,6 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "17018",
 "files": {
-	"\/_pages.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_pages.kit",
-		"outputAbbreviatedPath": "\/_pages.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/about.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -3261,7 +3252,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/media\/Modernizr 2 Logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/modernizr.js": {
 		"fileType": 64,
@@ -3308,23 +3299,23 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 163,
+		"initialSize": 143,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/alpha.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/alpha.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/apng_test.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 195,
+		"initialSize": 188,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/apng_test.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/apng_test.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/before-after.png": {
 		"fileType": 32768,
@@ -3335,7 +3326,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/before-after.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/form_validation.html": {
 		"fileType": 8192,
@@ -3366,7 +3357,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/green5x5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/hashchange.html": {
 		"fileType": 8192,
@@ -3401,12 +3392,12 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3140,
+		"initialSize": 2852,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/mathml_ref.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/mathml_ref.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/modernizr-1.7.min.js": {
 		"fileType": 64,
@@ -3423,12 +3414,12 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 214,
+		"initialSize": 182,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/png_alpha_result.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/png_alpha_result.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/pushstate.html": {
 		"fileType": 8192,
@@ -3443,23 +3434,23 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 93,
+		"initialSize": 84,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/red30x30.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/red30x30.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/ruby.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1339,
+		"initialSize": 1273,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/ruby.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/ruby.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/stroked-text.png": {
 		"fileType": 32768,
@@ -3470,7 +3461,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/stroked-text.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/style.css": {
 		"fileType": 16,
@@ -3490,29 +3481,29 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/svg-html-blur.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/svg_blur.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3742,
+		"initialSize": 2901,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/svg_blur.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/svg_blur.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/table.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2519,
+		"initialSize": 2161,
 		"inputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/table.png",
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/table.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow1.png": {
 		"fileType": 32768,
@@ -3523,7 +3514,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow2.png": {
 		"fileType": 32768,
@@ -3534,7 +3525,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/windsong_font.png": {
 		"fileType": 32768,
@@ -3545,7 +3536,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/windsong_font.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/xhtml.html": {
 		"fileType": 8192,
@@ -3738,128 +3729,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/picturefill\/examples\/demo-01.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/demo-01.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/examples\/demo-02.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/demo-02.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/examples\/demo-03.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/demo-03.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/examples\/demo-04.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/demo-04.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/examples\/images\/extralarge.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 750127,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/extralarge.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/extralarge.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/images\/large.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 354876,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/large.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/large.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/images\/medium.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 239128,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/medium.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/medium.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/images\/pic-large.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 163326,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/pic-large.png",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/pic-large.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/images\/pic-medium.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 82354,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/pic-medium.png",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/pic-medium.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/images\/pic-small.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 35483,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/pic-small.png",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/pic-small.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/images\/small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 54718,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/small.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/images\/small.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/bower_components\/picturefill\/examples\/styles.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/examples\/styles.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/bower_components\/picturefill\/gruntfile.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -3891,79 +3760,6 @@
 		"outputAbbreviatedPath": "\/bower_components\/picturefill\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/src\/external\/matchmedia.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/src\/external\/matchmedia.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/src\/external\/min\/matchmedia-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/picturefill\/src\/picturefill.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/src\/picturefill.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/src\/min\/picturefill-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/picturefill\/tests\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/tests\/resources\/jquery-1.7.1.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/resources\/jquery-1.7.1.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/resources\/min\/jquery-1.7.1-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/picturefill\/tests\/resources\/qunit-1.10.0.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/resources\/qunit-1.10.0.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/picturefill\/tests\/resources\/qunit-1.10.0.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/resources\/qunit-1.10.0.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/resources\/min\/qunit-1.10.0-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/picturefill\/tests\/tests.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/tests.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/tests\/min\/tests-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
 		},
 	"\/config.rb": {
 		"fileType": 131072,
@@ -4001,82 +3797,91 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/google9a8886bf206c3ab2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/google9a8886bf206c3ab2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/images\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19518,
+		"initialSize": 15451,
 		"inputAbbreviatedPath": "\/images\/favicon.png",
 		"outputAbbreviatedPath": "\/images\/favicon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/forest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 280883,
+		"initialSize": 245753,
 		"inputAbbreviatedPath": "\/images\/forest.jpg",
 		"outputAbbreviatedPath": "\/images\/forest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/icons\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 824,
+		"initialSize": 487,
 		"inputAbbreviatedPath": "\/images\/icons\/facebook.png",
 		"outputAbbreviatedPath": "\/images\/icons\/facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/icons\/quote-left.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1017,
+		"initialSize": 518,
 		"inputAbbreviatedPath": "\/images\/icons\/quote-left.png",
 		"outputAbbreviatedPath": "\/images\/icons\/quote-left.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/icons\/twitter.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1291,
+		"initialSize": 651,
 		"inputAbbreviatedPath": "\/images\/icons\/twitter.png",
 		"outputAbbreviatedPath": "\/images\/icons\/twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 26282,
+		"initialSize": 31156,
 		"inputAbbreviatedPath": "\/images\/logo.png",
 		"outputAbbreviatedPath": "\/images\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/park.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 320576,
+		"initialSize": 276112,
 		"inputAbbreviatedPath": "\/images\/park.jpg",
 		"outputAbbreviatedPath": "\/images\/park.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/summer-field-retina.jpg": {
 		"fileType": 16384,
@@ -4087,18 +3892,18 @@
 		"outputAbbreviatedPath": "\/images\/summer-field-retina.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/summer-field.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 258790,
+		"initialSize": 83344,
 		"inputAbbreviatedPath": "\/images\/summer-field.jpg",
 		"outputAbbreviatedPath": "\/images\/summer-field.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -4155,6 +3960,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/_header.kit",
 		"outputAbbreviatedPath": "\/partials\/_header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/_pages.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/_pages.kit",
+		"outputAbbreviatedPath": "\/partials\/_pages.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -4311,11 +4125,11 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "Hypnotherapy",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/images\/favicon.png"
 	},
 "projectSettings": {
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoApplyPSLanguageSettingsStyle": 0,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
@@ -4443,7 +4257,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathRelativePath": "",
@@ -4506,7 +4320,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"dojo": {
@@ -4764,7 +4578,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqeq": {
