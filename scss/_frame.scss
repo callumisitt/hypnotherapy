@@ -27,11 +27,11 @@ header.masthead
 
 	.logo
 	{
-		width: 300px;
-		height: 70px;
 		padding: 0;
 		img
 		{
+			max-width: 300px;
+			max-height: 70px;
 			border: 0;
 		}
 	}

@@ -8077,12 +8077,12 @@ header.masthead .logo, header.masthead nav.primary {
 }
 /* line 28, ../scss/_frame.scss */
 header.masthead .logo {
-  width: 300px;
-  height: 70px;
   padding: 0;
 }
-/* line 33, ../scss/_frame.scss */
+/* line 31, ../scss/_frame.scss */
 header.masthead .logo img {
+  max-width: 300px;
+  max-height: 70px;
   border: 0;
 }
 /* line 41, ../scss/_frame.scss */
@@ -8216,20 +8216,21 @@ footer img {
   height: 32px;
   border: 0;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
-/* line 89, ../scss/_tags.scss */
+/* line 90, ../scss/_tags.scss */
 .row input, textarea, select {
   background: #383838;
   color: #fff;
   border: 0;
 }
-/* line 94, ../scss/_tags.scss */
+/* line 95, ../scss/_tags.scss */
 .row input:hover, .row input:focus, textarea:hover, textarea:focus, select:hover, select:focus {
   background: #383838;
 }
 
-/* line 99, ../scss/_tags.scss */
+/* line 100, ../scss/_tags.scss */
 input[type="submit"] {
   margin: 0;
   padding: 10px;
@@ -8237,7 +8238,7 @@ input[type="submit"] {
   background-color: #84a282;
   cursor: pointer;
 }
-/* line 106, ../scss/_tags.scss */
+/* line 107, ../scss/_tags.scss */
 input[type="submit"]:hover {
   background-color: #a8c254;
 }
@@ -8347,34 +8348,40 @@ input[type="submit"]:hover {
   color: #e04c4c;
 }
 
+@media screen and (max-width: 945px) {
+  /* line 3, ../scss/_responsive.scss */
+  .inline-list > li {
+    margin-left: 1rem;
+  }
+}
 @media screen and (max-width: 645px) {
-  /* line 5, ../scss/_responsive.scss */
+  /* line 13, ../scss/_responsive.scss */
   header.masthead .logo {
     width: 100%;
     margin: 20px auto;
   }
-  /* line 9, ../scss/_responsive.scss */
+  /* line 17, ../scss/_responsive.scss */
   header.masthead .logo img {
     display: block;
     margin: 0 auto;
     max-width: 300px;
   }
-  /* line 17, ../scss/_responsive.scss */
+  /* line 25, ../scss/_responsive.scss */
   header.masthead nav.primary, header.masthead ul, header.masthead ul li {
     float: none !important;
     text-align: center;
   }
-  /* line 22, ../scss/_responsive.scss */
+  /* line 30, ../scss/_responsive.scss */
   header.masthead nav.primary {
     margin: 0;
   }
-  /* line 25, ../scss/_responsive.scss */
+  /* line 33, ../scss/_responsive.scss */
   header.masthead nav.primary ul li {
     margin-top: 5px;
     margin-bottom: 5px;
   }
 
-  /* line 35, ../scss/_responsive.scss */
+  /* line 43, ../scss/_responsive.scss */
   .banners .inner .caption {
     position: relative;
     bottom: 0;
@@ -8382,8 +8389,18 @@ input[type="submit"]:hover {
     width: 100%;
     padding: 20px 0;
   }
-  /* line 42, ../scss/_responsive.scss */
+  /* line 50, ../scss/_responsive.scss */
   .banners .inner .caption .copy {
     background: #f7f7f7;
+  }
+
+  /* line 57, ../scss/_responsive.scss */
+  .seperate-left, .seperate-right {
+    border: none;
+  }
+
+  /* line 62, ../scss/_responsive.scss */
+  .copyright {
+    margin-top: 20px;
   }
 }

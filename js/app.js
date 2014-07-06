@@ -1,3 +1,15 @@
+function setHeaderHeights() {
+	var heights = [];
+	$('h2[data-header]').each(function() {
+		$(this).css('height', '');
+		heights.push($(this).height());
+	});
+	$('h2[data-header]').height(Math.max.apply(Math, heights));
+}
+
+$(window).bind("load", setHeaderHeights);
+$(window).bind("resize", setHeaderHeights);
+
 $(document).ready(function(){
 	$("form").on("submit", function(e) {
 	  e.preventDefault();

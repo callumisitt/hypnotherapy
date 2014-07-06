@@ -1,3 +1,11 @@
+@media screen and (max-width: 945px)
+{
+	.inline-list > li
+	{
+		margin-left: 1rem;
+	}
+}
+
 @media screen and (max-width: 645px)
 {
 	header.masthead
@@ -44,5 +52,15 @@
 				background: #f7f7f7;
 			}
 		}
+	}
+
+	.seperate-left, .seperate-right
+	{
+		border: none;
+	}
+
+	.copyright
+	{
+		margin-top: 20px;
 	}
 }
