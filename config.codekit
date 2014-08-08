@@ -66,7 +66,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/min\/foundation-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/min\/foundation-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -77,7 +77,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/min\/foundation.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/min\/foundation.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -88,7 +88,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.abide.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.abide-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.abide-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -99,7 +99,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.accordion.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.accordion-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.accordion-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -110,7 +110,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.alert.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.alert-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.alert-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -121,7 +121,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.clearing.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.clearing-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.clearing-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -132,7 +132,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.dropdown.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.dropdown-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.dropdown-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -143,7 +143,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.equalizer.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.equalizer-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.equalizer-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -154,7 +154,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.interchange.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.interchange-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.interchange-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -165,7 +165,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.joyride.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.joyride-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.joyride-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -176,7 +176,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -187,7 +187,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.magellan-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.magellan-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -198,7 +198,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.offcanvas.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.offcanvas-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.offcanvas-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -209,7 +209,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.orbit.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.orbit-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.orbit-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -220,7 +220,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.reveal.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.reveal-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.reveal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -231,7 +231,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.slider.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.slider-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.slider-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -242,7 +242,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.tab.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.tab-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.tab-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -253,7 +253,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.tooltip.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.tooltip-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.tooltip-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -264,7 +264,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js",
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.topbar-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.topbar-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1050,7 +1050,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/html5shiv-printshiv.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv-printshiv-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv-printshiv-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1061,7 +1061,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/html5shiv-printshiv.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv-printshiv.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv-printshiv.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1072,7 +1072,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/html5shiv.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1083,7 +1083,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/html5shiv.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/dist\/min\/html5shiv.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1094,7 +1094,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/html5shiv\/Gruntfile.js",
-		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/min\/Gruntfile-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/html5shiv\/min\/Gruntfile-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3252,7 +3252,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/media\/Modernizr 2 Logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/modernizr.js": {
 		"fileType": 64,
@@ -3304,7 +3304,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/alpha.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/apng_test.png": {
 		"fileType": 32768,
@@ -3315,7 +3315,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/apng_test.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/before-after.png": {
 		"fileType": 32768,
@@ -3326,7 +3326,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/before-after.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/form_validation.html": {
 		"fileType": 8192,
@@ -3357,7 +3357,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/green5x5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/hashchange.html": {
 		"fileType": 8192,
@@ -3397,7 +3397,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/mathml_ref.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/modernizr-1.7.min.js": {
 		"fileType": 64,
@@ -3419,7 +3419,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/png_alpha_result.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/pushstate.html": {
 		"fileType": 8192,
@@ -3439,7 +3439,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/red30x30.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/ruby.png": {
 		"fileType": 32768,
@@ -3450,7 +3450,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/ruby.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/stroked-text.png": {
 		"fileType": 32768,
@@ -3461,7 +3461,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/stroked-text.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/style.css": {
 		"fileType": 16,
@@ -3481,7 +3481,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/svg-html-blur.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/svg_blur.png": {
 		"fileType": 32768,
@@ -3492,7 +3492,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/svg_blur.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/table.png": {
 		"fileType": 32768,
@@ -3503,7 +3503,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/table.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow1.png": {
 		"fileType": 32768,
@@ -3514,7 +3514,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow2.png": {
 		"fileType": 32768,
@@ -3525,7 +3525,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/text-shadow2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/windsong_font.png": {
 		"fileType": 32768,
@@ -3536,7 +3536,7 @@
 		"outputAbbreviatedPath": "\/bower_components\/modernizr\/test\/caniuse_files\/windsong_font.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/modernizr\/test\/caniuse_files\/xhtml.html": {
 		"fileType": 8192,
@@ -3712,7 +3712,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/picturefill\/dist\/picturefill.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/dist\/min\/picturefill-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/picturefill\/dist\/min\/picturefill-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3723,7 +3723,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/picturefill\/dist\/picturefill.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/dist\/min\/picturefill.min-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/picturefill\/dist\/min\/picturefill.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3734,7 +3734,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/picturefill\/gruntfile.js",
-		"outputAbbreviatedPath": "\/bower_components\/picturefill\/min\/gruntfile-ck.js",
+		"outputAbbreviatedPath": "\/bower_components\/picturefill\/min\/gruntfile-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3821,12 +3821,12 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 245753,
+		"initialSize": 118286,
 		"inputAbbreviatedPath": "\/images\/forest.jpg",
 		"outputAbbreviatedPath": "\/images\/forest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/icons\/facebook.png": {
 		"fileType": 32768,
@@ -3837,7 +3837,7 @@
 		"outputAbbreviatedPath": "\/images\/icons\/facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/icons\/quote-left.png": {
 		"fileType": 32768,
@@ -3848,7 +3848,7 @@
 		"outputAbbreviatedPath": "\/images\/icons\/quote-left.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/icons\/twitter.png": {
 		"fileType": 32768,
@@ -3859,7 +3859,7 @@
 		"outputAbbreviatedPath": "\/images\/icons\/twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/logo.png": {
 		"fileType": 32768,
@@ -3870,18 +3870,18 @@
 		"outputAbbreviatedPath": "\/images\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/park.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 276112,
+		"initialSize": 291052,
 		"inputAbbreviatedPath": "\/images\/park.jpg",
 		"outputAbbreviatedPath": "\/images\/park.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/summer-field-retina.jpg": {
 		"fileType": 16384,
@@ -3939,7 +3939,7 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/app-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/app-ck-ck.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/app-ck-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4115,6 +4115,15 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/testimonials.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/testimonials.kit",
+		"outputAbbreviatedPath": "\/testimonials.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -4125,8 +4134,8 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "Hypnotherapy",
-	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/images\/favicon.png"
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "brackets_brown"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
